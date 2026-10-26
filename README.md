@@ -10,7 +10,7 @@ Project Athenal evaluates whether a Federated Learning (FedAvg) pipeline can ach
 
 ## Documentation
 
-- 📄 [View Research Presentation Deck (PDF)](Project_Athenal_Presentation.pdf)
+- 📄 [View Research Presentation Deck (PDF)](docs/Project_Athenal_Presentation.pdf)
 
 ## Key Features
 
