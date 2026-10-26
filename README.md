@@ -8,6 +8,10 @@ Schools collect large amounts of digital student performance data, but federal p
 
 Project Athenal evaluates whether a Federated Learning (FedAvg) pipeline can achieve strong predictive performance while keeping raw student data strictly local. The system couples an edge-optimized gradient boosted classifier (XGBoost) with a custom behavioral metric (the Consistency Index) and SHAP explainability.
 
+## Documentation
+
+- 📄 [View Research Presentation Deck (PDF)](Project_Athenal_Presentation.pdf)
+
 ## Key Features
 
 - **Consistency Index (CI)**: Rather than relying only on past exam scores (lagging indicators), the pipeline extracts behavioral volatility. CI measures the standard deviation of submission timestamps relative to assignment deadlines ($\Delta t = T_{\text{due}} - T_{\text{submitted}}$).
